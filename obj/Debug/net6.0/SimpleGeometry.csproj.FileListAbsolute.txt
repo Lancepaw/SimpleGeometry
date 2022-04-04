@@ -1,0 +1,12 @@
+C:\Users\pavel\Documents\GitHub\SimpleGeometry\bin\Debug\net6.0\SimpleGeometry.deps.json
+C:\Users\pavel\Documents\GitHub\SimpleGeometry\bin\Debug\net6.0\SimpleGeometry.dll
+C:\Users\pavel\Documents\GitHub\SimpleGeometry\bin\Debug\net6.0\SimpleGeometry.pdb
+C:\Users\pavel\Documents\GitHub\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.csproj.AssemblyReference.cache
+C:\Users\pavel\Documents\GitHub\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\Documents\GitHub\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.AssemblyInfoInputs.cache
+C:\Users\pavel\Documents\GitHub\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.AssemblyInfo.cs
+C:\Users\pavel\Documents\GitHub\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Documents\GitHub\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.dll
+C:\Users\pavel\Documents\GitHub\SimpleGeometry\obj\Debug\net6.0\refint\SimpleGeometry.dll
+C:\Users\pavel\Documents\GitHub\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.pdb
+C:\Users\pavel\Documents\GitHub\SimpleGeometry\obj\Debug\net6.0\ref\SimpleGeometry.dll
